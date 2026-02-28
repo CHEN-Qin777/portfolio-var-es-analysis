@@ -35,7 +35,8 @@ Les résultats ci‑dessous ont été obtenus avec un portefeuille composé de `
 |-------------|------------|
 | Historique  | –0.022648  |
 | Monte Carlo | –0.075468  |
-
+![VaR分布图](results/image.png)
+![VaR分布图](results/images.png)
 ## 📈 Interprétation et analyse
 
 1. **Différence significative** : La VaR Monte Carlo est environ **3,3 fois plus élevée** (en valeur absolue) que la VaR historique. Cela s’explique par le fait que la simulation Monte Carlo génère des rendements extrêmes conformes à une loi normale multivariée, ce qui peut amplifier les queues de distribution par rapport à l’échantillon historique.
@@ -93,6 +94,7 @@ Ce projet est fourni à titre éducatif. Vous êtes libre de l'utiliser et de le
 - `matplotlib`
 - `scipy`
 - `seaborn`
+
 
 
 
