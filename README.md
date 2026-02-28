@@ -1,5 +1,4 @@
 
-```markdown
 # Analyse VaR et ES d'un portefeuille multi-actifs
 
 Ce projet implémente le calcul de la Value-at-Risk (VaR) et de l'Expected Shortfall (ES) pour un portefeuille diversifié en utilisant deux méthodes : **historique** et **Monte Carlo**. Il comprend le téléchargement de données réelles, le nettoyage, la visualisation avancée et l'analyse comparative.
@@ -80,19 +79,20 @@ Ce projet est fourni à titre éducatif. Vous êtes libre de l'utiliser et de le
 ## 🤝 Auteur
 
 Étudiant en Master 2 Mathématiques Financières – Projet de stage.
-```
 
----
+
+
 
 ## 📄 Fichiers sources (contenu complet)
 
 ### `requirements.txt`
-```
-numpy
-pandas
-yfinance
-matplotlib
-scipy
-seaborn
-```
+
+- `numpy`
+- `pandas`
+- `yfinance`
+- `matplotlib`
+- `scipy`
+- `seaborn`
+
+
 
